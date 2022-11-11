@@ -1,0 +1,29 @@
+.main-content {
+    padding: 30px;
+}
+
+main h2 h1 {
+    text-align: center;
+    font-family: garamond, georgia, serif;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.main-text {
+    padding: 20px 0;
+    content: "";
+    clear: both;
+    display: flex;
+}
+
+.main-text img {
+    width: 20%
+}
+
+.column{
+   
+    float: left;
+    padding: 5px;
+    width: 50;
+}
+
